@@ -70,5 +70,5 @@ def delete(id):
     return redirect(url_for("home"))
 
 
-if "__main__"==__name__:
-    app.run(debug=True)
+# if "__main__"==__name__:
+#     app.run(debug=True)
